@@ -1,0 +1,1 @@
+function s(e="",r){return e.endsWith("/")?e:e+"/"}function i(e){return e&&e!=="/"}const c=/^\.?\//;function f(e,...r){let n=e||"";for(const o of r.filter(t=>i(t)))if(n){const t=o.replace(c,"");n=s(n)+t}else n=o;return n}export{f as j};
