@@ -1,1 +1,0 @@
-[{"_path":"/usage/services/serversupabaseservicerole","title":"serverServiceRole","description":"Make requests with super admin rights to the Supabase API with the serverSupabaseServiceRole service"},{"_path":"/usage/services/serversupabaseuser","title":"serverSupabaseUser","description":"Get your Supabase user from serverside with the serverSupabaseUser service"}]
