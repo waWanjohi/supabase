@@ -1,0 +1,1 @@
+[{"_path":"/usage/composables/usesupabasecookieredirect","title":"useSupabaseCookieRedirect","description":"Handle redirecting users to the page they previously tried to visit after login"},{"_path":"/usage/composables/usesupabaseuser","title":"useSupabaseUser","description":"Auto import and use your Supabase user with the useSupabaseUser composable"}]
